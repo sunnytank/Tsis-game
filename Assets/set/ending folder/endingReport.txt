@@ -1,0 +1,43 @@
+Report created: 
+	4/4/2567	16:19:53
+
+Project name: ending.aep
+
+Source files collected to: 
+	D:\ปี4\T-sis\ending folder
+
+Source files collected: All
+
+Collected comps:  
+	Comp 1
+	Pre-comp 1
+	Pre-comp 2
+	
+Number of collected files:  19
+
+Size of collected files:  858 KB
+
+Collected source files: 
+	C:\Users\BEAM0901\Downloads\door-2-6841 (mp3cut.net).mp3
+	C:\Users\BEAM0901\Downloads\Hopeless - Free Copyright Sound Effect for Relaxation (mp3cut.net).mp3
+	C:\Users\BEAM0901\Downloads\Y2meta (mp3cut.net).mp3
+	D:\ปี4\T-sis\cutseenout\ending folder\(Footage)\comp1\Layer 1.png
+	D:\ปี4\T-sis\cutseenout\ending folder\(Footage)\comp1\Layer 2.png
+	D:\ปี4\T-sis\cutseenout\ending folder\(Footage)\comp1\Layer 3.png
+	D:\ปี4\T-sis\cutseenout\ending folder\(Footage)\comp1\Layer 4.png
+	D:\ปี4\T-sis\cutseenout\ending folder\(Footage)\comp1\Layer 5.png
+	D:\ปี4\T-sis\cutseenout\ending folder\(Footage)\comp1\Layer 6.png
+	D:\ปี4\T-sis\cutseenout\ending folder\(Footage)\comp1\Layer 7.png
+	D:\ปี4\T-sis\cutseenout\ending folder\(Footage)\comp1\Layer 8.png
+	D:\ปี4\T-sis\cutseenout\ending folder\(Footage)\comp1\Layer 9.png
+	D:\ปี4\T-sis\cutseenout\ending folder\(Footage)\end.png
+	D:\ปี4\T-sis\cutseenout\ending folder\(Footage)\girl.png
+	D:\ปี4\T-sis\cutseenout\ending folder\(Footage)\Untitled 1\Layer 1.png
+	D:\ปี4\T-sis\cutseenout\ending folder\(Footage)\Untitled 1\Layer 2.png
+	D:\ปี4\T-sis\cutseenout\ending folder\(Footage)\Untitled 1\Layer 3.png
+	D:\ปี4\T-sis\cutseenout\ending folder\(Footage)\Untitled 1\Layer 4.png
+	D:\ปี4\T-sis\cutseenout\ending folder\(Footage)\Untitled 1\Layer 5.png
+	
+Rendering plug-ins:
+	Classic 3D
+	

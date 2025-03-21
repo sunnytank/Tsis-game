@@ -1,0 +1,17 @@
+คำอธิบาย item ใน ร้านค้า // Font inter-light ขนาด 24
+
+- Green potion
+Contains antiviral drugs, which have the effect of inhibiting 
+the multiplication of viruses. Increase maximum strength by 10.
+
+- Red potion
+Contains antibiotics to kill bacteria. Increases HP up to 20.
+
+-Mask
+Increase protection against germs Increase armor up to 2 times
+
+-Orange syringe
+Rich in essential vitamins for the body. Recovers +80 HP.
+
+-Blue syringe
+Rich in minerals for humans. Restores armor 1 time.

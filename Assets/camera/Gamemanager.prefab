@@ -1,0 +1,151 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1582581781524933745
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1582581781524933747}
+  - component: {fileID: -6814023273288023827}
+  - component: {fileID: 2523608509911659945}
+  - component: {fileID: 6413036395114795857}
+  - component: {fileID: 6485489517865969532}
+  - component: {fileID: 1397065077144254002}
+  - component: {fileID: 7034222711701331860}
+  m_Layer: 0
+  m_Name: Gamemanager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1582581781524933747
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1582581781524933745}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -34.743137, y: -44.36565, z: 0.3111051}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &-6814023273288023827
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1582581781524933745}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c41bf44375cca8a46ba70e9b22cfd204, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  moveInput: {x: 0, y: 0}
+--- !u!114 &2523608509911659945
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1582581781524933745}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9576a4a7ecf32d847ae2bd5523b0b7ce, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  healthBar: {fileID: 0}
+  HealthCharecter: 0
+  MaxHealthCharecter: 0
+  staminaBar: {fileID: 0}
+  StaminaCharecter: 0
+  MaxStaminaCharecter: 0
+  MaxShield: 0
+  ShieldCharecter: 0
+  SoulAmountUi: 0
+  textSoul: {fileID: 0}
+  RedPotionCurrent: 0
+  textRedPo: {fileID: 0}
+  PlayerHealth: {fileID: 0}
+--- !u!114 &6413036395114795857
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1582581781524933745}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa2d483fcacd2764cb58987b63e7822e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  textCall: {fileID: 0}
+  NumberSet: {fileID: 0}
+  expectedValue: 0
+  player: {fileID: 0}
+--- !u!114 &6485489517865969532
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1582581781524933745}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c6c07802b9bd4a4f89dffb41e6d92b8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  charecter1: {fileID: 0}
+  charecter2: {fileID: 0}
+  charecter3: {fileID: 0}
+  charecter4: {fileID: 0}
+  charecter5: {fileID: 0}
+  panelInputWord: {fileID: 0}
+  panelDetailWord: {fileID: 0}
+  panelInputNumber: {fileID: 0}
+  panelHint: {fileID: 0}
+  ButtonToDetailword: {fileID: 0}
+  panalUIGame: {fileID: 0}
+  correctWord: 
+  setActive: 0
+  player: {fileID: 0}
+--- !u!114 &1397065077144254002
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1582581781524933745}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd4259803461db94c9e88165420b95a3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SceneBuildIndex: 0
+  MainMenuIndex: 0
+  ScenePlayer: 0
+--- !u!114 &7034222711701331860
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1582581781524933745}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f425d74ba891e4740b6535c592c3858f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Ui: {fileID: 0}
+  PazzleNumber: {fileID: 0}
+  PazzleWord: {fileID: 0}
+  PazzleDetail: {fileID: 0}
+  Shop: {fileID: 0}

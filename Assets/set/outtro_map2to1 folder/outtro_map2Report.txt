@@ -1,0 +1,27 @@
+Report created: 
+	4/4/2567	17:41:39
+
+Project name: outtro_map2.aep
+
+Source files collected to: 
+	D:\ปี4\T-sis\outtro_map2 folder
+
+Source files collected: All
+
+Collected comps:  
+	outro_bossmap2
+	
+Number of collected files:  5
+
+Size of collected files:  271 KB
+
+Collected source files: 
+	C:\Users\BEAM0901\Downloads\38738D57-925D-4E0A-A9D2-0EA53430C450.png
+	C:\Users\BEAM0901\Downloads\A4697FA4-3F69-4B6D-B149-B24A600E5A27.png
+	C:\Users\BEAM0901\Downloads\B31919B1-CD0C-4009-AB05-D7A19915D3B5.png
+	C:\Users\BEAM0901\Downloads\B5A3EEA8-59EE-40BF-8BF4-409C7BE87396.png
+	C:\Users\BEAM0901\Downloads\Stone sliding sound effect (mp3cut.net).m4a
+	
+Rendering plug-ins:
+	Classic 3D
+	

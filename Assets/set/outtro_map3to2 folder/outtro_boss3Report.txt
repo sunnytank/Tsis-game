@@ -1,0 +1,31 @@
+Report created: 
+	4/4/2567	16:20:52
+
+Project name: outtro_boss3.aep
+
+Source files collected to: 
+	D:\ปี4\T-sis\outtro_map3to2 folder
+
+Source files collected: All
+
+Collected comps:  
+	out_boss3
+	ฝาท่อ
+	
+Number of collected files:  8
+
+Size of collected files:  599 KB
+
+Collected source files: 
+	C:\Users\BEAM0901\Downloads\Blood.png
+	C:\Users\BEAM0901\Downloads\Fast Whoosh Sound Effect (mp3cut.net).m4a
+	C:\Users\BEAM0901\Downloads\Stone sliding sound effect (mp3cut.net).m4a
+	D:\ปี4\T-sis\300ppi\ฝาท่อ.png
+	D:\ปี4\T-sis\300ppi\หลุม.png
+	D:\ปี4\T-sis\300ppi\เลือด_1.png
+	D:\ปี4\T-sis\300ppi\เลือด_2.png
+	D:\ปี4\T-sis\300ppi\เลือด_4.png
+	
+Rendering plug-ins:
+	Classic 3D
+	
